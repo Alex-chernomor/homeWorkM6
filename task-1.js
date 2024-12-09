@@ -1,3 +1,4 @@
+console.log(" **********************Task 1********************************");
 
 const customer = {
     username: "Mango",
